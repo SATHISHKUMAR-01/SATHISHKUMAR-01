@@ -16,9 +16,8 @@
 
 
 
-- 🔭 I’m currently working on **ICREW SYSTEM** 
-- 🌱 I’m currently learning **LARAVEL**
-- 💬 Ask me about **PYTHON, C, C++, JAVA** 
+-
+- 💬 Ask me about **PYTHON, C, JAVA** 
 - 📫 How to reach me **sathishprakash233@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
