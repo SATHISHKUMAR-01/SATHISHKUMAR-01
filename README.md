@@ -13,10 +13,6 @@
   /></a>
 </p>
 
-
-
-
--
 - 💬 Ask me about **PYTHON, C, JAVA** 
 - 📫 How to reach me **sathishprakash233@gmail.com**
 
