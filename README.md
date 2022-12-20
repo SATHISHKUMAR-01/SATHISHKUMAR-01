@@ -2,7 +2,7 @@
 
 <img src="https://miro.medium.com/max/875/0*C-cPP9D2MIyeexAT.gif" align="center">
     
-<h1 align="center">Hi 👋, I'm SATHISHKUMAR</h1>
+<h1 align="center" color="blue">Hi 👋, I'm SATHISHKUMAR</h1>
 <h3 align="center">Computer Engineer</h3>
 
 <p align="left">
